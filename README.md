@@ -17,28 +17,28 @@ The system allows users to insert, view, search, delete, update, sort, undo, and
 
 ---
 
-##📌 Project Type
+## 📌 Project Type
 
 Console-based application
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 *MST. Maria Akter*
 
 ---
 
-##📄 License
+## 📄 License
 
 This project is for educational purposes.
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 C++
-Data Structures:
+Data Structures
 Array
 Stack (Linked List)
 Queue (Linked List)

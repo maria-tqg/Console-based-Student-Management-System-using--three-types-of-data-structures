@@ -38,8 +38,6 @@ This project is for educational purposes.
 
 ## 🔄 Flowchart
 
----
-
 ```mermaid
 flowchart TD
     A([START]) --> B[Display Menu]

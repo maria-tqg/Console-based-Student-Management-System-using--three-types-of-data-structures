@@ -1,10 +1,28 @@
-# Console-based-Student-Management-System-using--three-types-of-data-structures
-This is my first-year project from BUBT, demonstrating my knowledge of C++ basics. The Student Management System is a console-based application designed to manage student records. It allows users to insert, view, search, delete, update, sort, undo and display statistics of student information.
+# 📘 Student Management System (C++)
 
-#FlowChart
+This is my first-year project from BUBT, demonstrating my knowledge of C++ basics and data structures.  
+The system allows users to insert, view, search, delete, update, sort, undo, and display statistics of student records.
+
+---
+
+## ✨ Features
+
+- Add Student
+- View All Students
+- Search by ID & Name
+- Delete Student
+- Update Student
+- Sort Students
+- Undo Last Action (Stack)
+- Display Statistics (Queue)
+
+---
+
+## 🔄 Flowchart
+
 ```mermaid
 flowchart TD
-    A[START] --> B[Display Menu]
+    A([START]) --> B[Display Menu]
     B --> C[Enter Choice]
 
     C --> D{Select Operation}
@@ -22,6 +40,5 @@ flowchart TD
     J --> K[Undo Action]
 
     K --> L{Exit?}
-
     L -->|No| B
-    L -->|Yes| M[END]
+    L -->|Yes| M([END])

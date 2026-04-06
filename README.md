@@ -3,7 +3,6 @@
 This is my first-year project from BUBT, demonstrating my knowledge of C++ basics and data structures.  
 The system allows users to insert, view, search, delete, update, sort, undo, and display statistics of student records.
 
----
 
 ## ✨ Features
 

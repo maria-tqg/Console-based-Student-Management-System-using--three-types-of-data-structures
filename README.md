@@ -36,8 +36,17 @@ This project is for educational purposes.
 
 ---
 
-## 🔄 Flowchart
+##🛠️ Technologies Used
 
+C++
+Data Structures:
+Array
+Stack (Linked List)
+Queue (Linked List)
+
+---
+## 🔄 Flowchart
+---
 ```mermaid
 flowchart TD
     A([START]) --> B[Display Menu]
@@ -61,9 +70,3 @@ flowchart TD
     L -->|No| B
     L -->|Yes| M([END])
 
-🛠️ Technologies Used
-C++
-Data Structures:
-Array
-Stack (Linked List)
-Queue (Linked List)

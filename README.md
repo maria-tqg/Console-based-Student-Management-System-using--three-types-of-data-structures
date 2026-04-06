@@ -16,13 +16,19 @@ The system allows users to insert, view, search, delete, update, sort, undo, and
 - Undo Last Action (Stack)
 - Display Statistics (Queue)
 
+---
+
 ##📌 Project Type
 
 Console-based application
 
+---
+
 ##👨‍💻 Author
 
 *MST. Maria Akter*
+
+---
 
 ##📄 License
 
@@ -31,6 +37,8 @@ This project is for educational purposes.
 ---
 
 ## 🔄 Flowchart
+
+---
 
 ```mermaid
 flowchart TD

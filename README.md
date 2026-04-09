@@ -1,10 +1,10 @@
-# 📘 Student Management System (C++)
+#  Student Management System (C++)
 
 This is my second-year project from BUBT, demonstrating my knowledge of C++ basics and data structures.  
 The system allows users to insert, view, search, delete, update, sort, undo, and display statistics of student records.
 
 
-## ✨ Features
+##  Features
 
 - Add Student
 - View All Students
@@ -17,24 +17,24 @@ The system allows users to insert, view, search, delete, update, sort, undo, and
 
 
 
-## 📌 Project Type
+##  Project Type
 
 Console-based application
 
 
 
-## 👨‍💻 Author
+##  Author
 
 *MST. Maria Akter*
 
 
-## 📄 License
+##  License
 
 This project is for educational purposes.
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 C++
 Data Structures
@@ -43,7 +43,7 @@ Stack (Linked List)
 Queue (Linked List)
 
 ---
-## 🔄 Flowchart
+##  Flowchart
 
 ```mermaid
 flowchart TD

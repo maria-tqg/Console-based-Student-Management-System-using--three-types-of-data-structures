@@ -43,13 +43,12 @@ Stack (Linked List)
 Queue (Linked List)
 
 ---
-##  Flowchart
+## FlowChart
 
 ```mermaid
 flowchart TD
-    A([START]) --> B[Display Menu]
+    A[START] --> B[Display Menu]
     B --> C[Enter Choice]
-
     C --> D{Select Operation}
 
     D -->|Insert| E[Insert Student]
@@ -66,5 +65,4 @@ flowchart TD
 
     K --> L{Exit?}
     L -->|No| B
-    L -->|Yes| M([END])
-
+    L -->|Yes| M[END]

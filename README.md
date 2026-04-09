@@ -47,22 +47,26 @@ Queue (Linked List)
 
 ```mermaid
 flowchart TD
-    A[START] --> B[Display Menu]
+    A([START]) --> B[Display Menu]
     B --> C[Enter Choice]
+
     C --> D{Select Operation}
 
-    D -->|Insert| E[Insert Student]
-    D -->|Search| F[Search Student]
-    D -->|Delete| G[Delete Student]
+    D -->|1 Insert| E[Insert Student]
+    D -->|2 View| F[View Students]
+    D -->|3 Search| G[Search Student]
+    D -->|4 Delete| H[Delete Student]
+    D -->|5 Update| I[Update Student]
+    D -->|6 Sort| J[Sort Students]
+    D -->|7 Statistics| K[Display Statistics]
+    D -->|8 Undo| L[Undo Action]
+    D -->|9 Exit| M([END])
 
-    E --> H[Update Student]
-    F --> H
-    G --> H
-
-    H --> I[Sort Student]
-    I --> J[Display Statistics]
-    J --> K[Undo Action]
-
-    K --> L{Exit?}
-    L -->|No| B
-    L -->|Yes| M[END]
+    E --> B
+    F --> B
+    G --> B
+    H --> B
+    I --> B
+    J --> B
+    K --> B
+    L --> B
